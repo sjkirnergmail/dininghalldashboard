@@ -1,8 +1,8 @@
 {
-  "name": "dining-hall-dashboard",
+  "name": "dininghalldashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sjkirnergmail.github.io/dining-halli-dashboard",
+  "homepage": "https://sjkirnergmail.github.io/dininghalldashboard",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
