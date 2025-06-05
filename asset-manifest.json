@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dininghalldashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/dininghalldashboard/static/js/main.d4ed2f01.js",
+    "static/js/453.14a84781.chunk.js": "/dininghalldashboard/static/js/453.14a84781.chunk.js",
+    "index.html": "/dininghalldashboard/index.html",
+    "main.e6c13ad2.css.map": "/dininghalldashboard/static/css/main.e6c13ad2.css.map",
+    "main.d4ed2f01.js.map": "/dininghalldashboard/static/js/main.d4ed2f01.js.map",
+    "453.14a84781.chunk.js.map": "/dininghalldashboard/static/js/453.14a84781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d4ed2f01.js"
+  ]
+}
